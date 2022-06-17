@@ -9,7 +9,7 @@ By including our SDK, your app will check for updated translations in Devnagri r
 You can install the SDK manually.
 
 # Manual Installation
-Download the latest release from https://github.com/DevnagriAI/dev-dota-sdk-ios/releases 
+Download the latest release from https://github.com/DevnagriAI/dev-ios-sdk/releases 
 Add DevnagriSdk.xcframework in Xcode as linked binary to your target.
 
 **Optional for development**
