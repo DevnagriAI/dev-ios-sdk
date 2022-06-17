@@ -1,4 +1,4 @@
-# Dev iOS SDK Installation Instructions
+# Dev iOS Swift SDK Installation Instructions
 Learn how to install the Devnagri SDK for iOS.
 
 # Introduction
